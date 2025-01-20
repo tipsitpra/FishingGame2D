@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Fish
+  - Hook
+  - Pod
+  - fish01
+  - fish02
+  - fish03
+  - fish04
+  - fish05
+  - fish06
+  - fish07
+  - bossfish01
+  - Damage
+  - bossfish02
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Fish
+  - Water
+  - UI
+  - TakefishUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
